@@ -1,0 +1,10 @@
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\Server.exe.config
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\Server.exe
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\Server.pdb
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\_dllContract.dll
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\_dllService.dll
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\_dllContract.pdb
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\bin\Debug\_dllService.pdb
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\obj\Debug\Server.exe
+c:\users\rayane\documents\visual studio 2017\Projects\WCF\Server\obj\Debug\Server.pdb

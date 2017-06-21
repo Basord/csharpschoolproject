@@ -1,0 +1,8 @@
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\bin\Debug\Client.exe.config
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\bin\Debug\Client.exe
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\bin\Debug\Client.pdb
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\bin\Debug\_dllContract.dll
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\bin\Debug\_dllContract.pdb
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\obj\Debug\Client.exe
+C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\obj\Debug\Client.pdb
