@@ -6,3 +6,11 @@ C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\bin\Debug\_dllC
 C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\obj\Debug\Client.exe
 C:\Users\Rayane\documents\visual studio 2017\Projects\WCF\Client\obj\Debug\Client.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\bin\Debug\Client.exe.config
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\bin\Debug\Client.exe
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\bin\Debug\Client.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\bin\Debug\_dllContract.dll
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\bin\Debug\_dllContract.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\obj\Debug\Client.exe
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\Client\obj\Debug\Client.pdb

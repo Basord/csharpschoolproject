@@ -5,3 +5,10 @@ c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllService\bin\Debug\
 c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllService\obj\Debug\_dllService.csprojResolveAssemblyReference.cache
 c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllService\obj\Debug\_dllService.dll
 c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllService\obj\Debug\_dllService.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\bin\Debug\_dllService.dll
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\bin\Debug\_dllService.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\bin\Debug\_dllContract.dll
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\bin\Debug\_dllContract.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\obj\Debug\_dllService.csprojResolveAssemblyReference.cache
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\obj\Debug\_dllService.dll
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllService\obj\Debug\_dllService.pdb

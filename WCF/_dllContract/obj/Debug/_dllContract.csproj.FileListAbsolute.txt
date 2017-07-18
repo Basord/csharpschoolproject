@@ -3,3 +3,8 @@ c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllContract\bin\Debug
 c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllContract\obj\Debug\_dllContract.csprojResolveAssemblyReference.cache
 c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllContract\obj\Debug\_dllContract.dll
 c:\users\rayane\documents\visual studio 2017\Projects\WCF\_dllContract\obj\Debug\_dllContract.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllContract\bin\Debug\_dllContract.dll
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllContract\bin\Debug\_dllContract.pdb
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllContract\obj\Debug\_dllContract.csprojResolveAssemblyReference.cache
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllContract\obj\Debug\_dllContract.dll
+C:\Users\PIERRE\Documents\Visual Studio 2017\Projects\GEN_WCF\gen_wcf\WCF\_dllContract\obj\Debug\_dllContract.pdb
